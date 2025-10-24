@@ -11,7 +11,6 @@ library(class)
 library(psych)
 library(readr)
 
-## set working directory so that files can be referenced without the full path
 setwd("~/Courses/Data Analytics/Fall25/labs/lab 4/")
 
 ## read dataset
